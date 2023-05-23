@@ -15,4 +15,5 @@ Portifolio feito com as aulas de HTML e CSS da Alura
 Lucas Boareto<br>
   
 Linkedin: https://www.linkedin.com/in/lucas-boareto-6b3964216
+<br>
 Link para portfólio: https://meu-portfolio-brown-five.vercel.app/index.html
